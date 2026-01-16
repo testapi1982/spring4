@@ -11,3 +11,6 @@ proiectul explica testarea api-urilor cu RestTestClient
 
 ### h2
 proiectul atinge notiunea de modulariazare introdusa in spring boot 4 si migrarea de la 3.5.x la 4.x
+
+### todosapi
+proiectul prezinta simplificarea apelurilor de tip restclient
